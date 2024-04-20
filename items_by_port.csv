@@ -1,0 +1,608 @@
+Item,Port Name,Price
+Whiskey,London,810
+Woolen Fabric,London,1260
+Weapon,London,1620
+England Tweed,London,1800
+Wool,London,945
+Iron Ore,Plymouth,1080
+Tin Ore,Plymouth,900
+Pewterware,Plymouth,1350
+Cedar Wood,Plymouth,900
+Wool,Edinburgh,945
+Woolen Fabric,Edinburgh,1260
+England Tweed,Edinburgh,1800
+Whiskey,Dublin,810
+Butter,Dublin,648
+Cheese,Dublin,630
+England Tweed,Dublin,1800
+Wood,Bristol,630
+Wool,Bristol,945
+Zinc Ore,Bristol,990
+Ship Spike,Bristol,1620
+Gin,Amsterdam,945
+Glass Ball,Amsterdam,495
+Woolen Fabric,Amsterdam,1260
+Cotton Fabric,Amsterdam,1080
+Lace,Amsterdam,2867
+Cheese,Groningen,630
+Gin,Groningen,945
+Glass Ball,Groningen,495
+Beeswax,Groningen,765
+Gin,Antwerp,945
+Woolen Fabric,Antwerp,1260
+Jewelry,Antwerp,3600
+Golden Artware,Antwerp,2700
+Chamomile,Calais,855
+Butter,Calais,648
+Honey,Calais,720
+Lace,Calais,2646
+Wine,Nantes,1080
+Cheese,Nantes,630
+Salt,Nantes,630
+Brandy,Nantes,1530
+Wine,Bordeaux,1080
+Wheat,Bordeaux,378
+Sausage,Bordeaux,720
+Brandy,Bordeaux,1530
+Soap,Marseilles,1080
+Chamomile,Marseilles,941
+Linen,Marseilles,630
+Brandy,Marseilles,1836
+Velvet,Marseilles,2880
+Fur,Stockholm,1350
+Iron Ore,Stockholm,1080
+Silver,Stockholm,1800
+Weapon,Stockholm,1620
+Amber,Stockholm,1890
+Aquavit,Oslo,882
+Wool,Oslo,945
+Woolen Fabric,Oslo,1260
+Parchment,Oslo,720
+Cedar Wood,Oslo,900
+Aquavit,Bergen,882
+Wood,Bergen,630
+Niter,Bergen,1080
+Oak,Bergen,1800
+Beer,Lubeck,842
+Lead,Lubeck,945
+Armor,Lubeck,3456
+Silver Artware,Lubeck,2025
+Aquavit,Copenhagen,882
+Pewterware,Copenhagen,1350
+Brass,Copenhagen,1620
+Armor,Copenhagen,3456
+Rye,Visby,360
+Fish Meat,Visby,540
+Amber,Visby,1890
+Rye,Danzig,360
+Wood,Danzig,630
+Amber,Danzig,1890
+Rye,Riga,360
+Copper Ore,Riga,1350
+Niter,Riga,1080
+Fur,Riga,1350
+Quartz,Reykjavik,400
+Agate,Reykjavik,1050
+Fluorite,Reykjavik,750
+Sulfur,Reykjavik,900
+Beer,Hamburg,765
+Armor,Hamburg,2880
+Weapon,Hamburg,1620
+Golden Artware,Hamburg,2700
+Sausage,Bremen,720
+Wheat,Bremen,378
+Beer,Bremen,765
+Honey,Bremen,720
+Wine,Porto,1188
+Sausage,Porto,720
+Port Wine,Porto,1890
+Blue Porcelain,Porto,2268
+Wine,Malaga,1188
+Honey,Malaga,720
+Linen,Malaga,630
+Rosemary,Malaga,639
+Sherry,Malaga,1620
+Rosemary,Valencia,639
+Pewterware,Valencia,1350
+Silver Artware,Valencia,2025
+Niter,Valencia,1080
+Golden Artware,Valencia,2700
+Rosemary,Palma,639
+Cheese,Palma,630
+Sausage,Palma,720
+Sherry,Palma,1620
+Sherry,Seville,1620
+Rosemary,Seville,639
+Sausage,Seville,720
+Firearm,Seville,2520
+Silver,Seville,1800
+Gunpowder,Barcelona,1125
+Iron Ore,Barcelona,1080
+Cotton Fabric,Barcelona,1080
+Ship Spike,Barcelona,1620
+Firearm,Barcelona,2520
+White Sugar,Las Palmas,900
+Coconut,Las Palmas,504
+Coral,Las Palmas,1620
+Blue Porcelain,Lisbon,2268
+Weapon,Lisbon,1620
+Cheese,Lisbon,630
+Port Wine,Lisbon,1890
+Firearm,Lisbon,2520
+White Sugar,Madeira,900
+Fish Meat,Madeira,540
+Coral,Madeira,1620
+Fish Meat,Azores,540
+Salt,Azores,630
+Pearl,Azores,2385
+Argan Oil,Casablanca,1080
+Pottery,Casablanca,1125
+Ambergris,Casablanca,3150
+Argan Oil,Algiers,1080
+Desert Rose,Algiers,2025
+Iron Ore,Algiers,1080
+Weapon,Algiers,1620
+Cotton,Tunisia,720
+Desert Rose,Tunisia,2025
+Olive Oil,Tunisia,648
+Royal Purple,Tunisia,2880
+Cotton,Tripoli,720
+Cotton Fabric,Tripoli,1080
+Agate,Tripoli,1485
+Fish Meat,Ceuta,540
+Pottery,Ceuta,1125
+Desert Rose,Ceuta,2025
+Egyptian Essence,Alexandria,1350
+Myrrh,Alexandria,1620
+Frankincense,Alexandria,2331
+Gunpowder,Alexandria,1125
+Black Pepper,Alexandria,2160
+Egyptian Essence,Cairo,1350
+Papyrus Painting,Cairo,1229
+Myrrh,Cairo,1620
+Emerald,Cairo,6930
+Turquoise,Cairo,2520
+Wheat,Benghazi,378
+Cotton,Benghazi,720
+Pottery,Benghazi,1125
+Cotton Fabric,Benghazi,1080
+Velvet,Genoa,2880
+Oil Painting,Genoa,1935
+Wine,Genoa,1188
+Golden Artware,Genoa,2700
+Wood,Cagliari,630
+Wheat,Cagliari,378
+Oregano,Cagliari,810
+Copper Ore,Cagliari,1350
+Oil Painting,Pisa,1935
+Lace,Pisa,2205
+Velvet,Pisa,2880
+Jewelry,Pisa,3600
+Glass Ball,Naples,495
+Silver Artware,Naples,2025
+Lace,Naples,2205
+Glass Artware,Naples,2520
+Potassium Alum,Naples,1350
+Glass Artware,Venice,2520
+Jewelry,Venice,3600
+Velvet,Venice,2880
+Oil Painting,Venice,1935
+Black Pepper,Venice,3240
+Cedar Wood,Ragusa,900
+Charcoal,Ragusa,765
+Butter,Ragusa,648
+Glass Artware,Ragusa,2520
+Wheat,Trieste,378
+Linen,Trieste,630
+Lead,Trieste,945
+Ship Spike,Trieste,1620
+Oregano,Syracuse,810
+Marble,Syracuse,1125
+Beeswax,Syracuse,765
+Marble Statue,Syracuse,1944
+Oregano,Sicily,810
+Sausage,Sicily,720
+Butter,Sicily,648
+Brass,Sicily,1620
+Frankincense,Istanbul,2498
+Turkish Rug,Istanbul,2025
+Potassium Alum,Istanbul,1350
+Firearm,Istanbul,3276
+Blue Eye,Istanbul,2385
+Iron Ore,Beirut,1080
+Cotton,Beirut,720
+Turkish Rug,Beirut,2025
+Damascus Knife,Beirut,5400
+Cotton,Jaffa,720
+Date Palm,Jaffa,594
+Agate,Jaffa,1485
+Potassium Alum,Sevastopol,1350
+Gunpowder,Sevastopol,1125
+Niter,Sevastopol,1080
+Turkish Rug,Sevastopol,2025
+Parchment,Athens,720
+Marble Statue,Athens,1620
+Ancient Fine Art,Athens,3420
+Potassium Alum,Athens,1350
+Niter,Athens,1080
+Olive Oil,Thessalonica,648
+Marble,Thessalonica,1125
+Marble Statue,Thessalonica,1620
+Ancient Fine Art,Thessalonica,3420
+Linen,Famagusta,630
+Honey,Famagusta,720
+Beeswax,Famagusta,765
+Royal Purple,Famagusta,3456
+Olive Oil,Crete,648
+Wine,Crete,1188
+Ancient Fine Art,Crete,3420
+Marble,Crete,1125
+Coconut,Cape Verde,504
+Salt,Cape Verde,630
+Agate,Cape Verde,1485
+Wheat,Sierra Leone,378
+Fur,Sierra Leone,1350
+Diamond,Sierra Leone,2808
+Iron Ore,Arguin,1080
+Wood,Arguin,630
+Gold,Arguin,4050
+Cotton,St. George,720
+Copper Ore,St. George,1350
+Agate,St. George,1485
+Gold,St. George,4050
+Ivory,St. George,2700
+Coconut,Abidjan,504
+Ivory,Abidjan,2700
+Gold,Abidjan,4050
+Coconut,São Tomé,504
+Pearl,São Tomé,2385
+Fish Meat,São Tomé,540
+Emerald,São Tomé,4158
+Wheat,Benin,378
+Charcoal,Benin,765
+Cotton,Benin,720
+Ivory,Benin,2700
+Fish Meat,Luanda,540
+Honey,Luanda,720
+Wood Carving,Luanda,810
+Ebony Wood,Luanda,2538
+Wheat,Benguela,378
+Fish Meat,Benguela,540
+Salt,Benguela,630
+Diamond,Benguela,2808
+Iron Ore,Cape Town,1080
+Tin Ore,Cape Town,900
+Niter,Cape Town,1080
+Diamond,Cape Town,2808
+Rhino Horn,Sofala Province,2520
+Emerald,Sofala Province,3465
+Gold,Sofala Province,5265
+Wheat,Natal,378
+Copper Ore,Natal,1350
+Ebony Wood,Natal,2327
+Rhino Horn,Mozambique,2520
+Agate,Mozambique,1485
+Emerald,Mozambique,3465
+Wheat,Toamasina,378
+Fur,Toamasina,1350
+Sapphire,Toamasina,4536
+Gold,Toamasina,5265
+Wheat,Kilwa,378
+Tin Ore,Kilwa,900
+Rhino Horn,Kilwa,2520
+Fish Meat,Zanzibar,540
+Tortoise Shell,Zanzibar,2250
+Emerald,Zanzibar,3465
+Myrrh,Mogadishu,1350
+Coffee,Mogadishu,900
+Rhino Horn,Mogadishu,2520
+Myrrh,Mombasa,1350
+Salt,Mombasa,630
+Coffee,Mombasa,900
+Beeswax,Mombasa,765
+Frankincense,Mombasa,1998
+Date Palm,Muscat,594
+Saffron,Muscat,702
+Frankincense,Muscat,1998
+Pearl,Muscat,2385
+Date Palm,Hormuz,594
+Turquoise,Hormuz,2520
+Niter,Hormuz,1080
+Lapis Lazuli,Hormuz,2385
+Silver,Hormuz,1800
+Saffron,Basrah,702
+Lead,Basrah,945
+Tin Ore,Basrah,900
+Lapis Lazuli,Basrah,2385
+Potassium Alum,Basrah,1350
+Frankincense,Aden,1832
+Zinc Ore,Aden,990
+Ship Spike,Aden,1620
+Copper Ore,Aden,1350
+Weapon,Aden,1620
+Myrrh,Socotra,1485
+Frankincense,Socotra,1832
+Honey,Socotra,720
+Ambergris,Socotra,3150
+Frankincense,Jeddah,1832
+Coffee,Jeddah,1350
+Tortoise Shell,Jeddah,2250
+Ship Spike,Suez,1620
+Royal Purple,Suez,4320
+Turquoise,Suez,2520
+Brass,Suez,1620
+Sisal,Suez,1512
+Coffee,Massawa,1350
+Cotton,Massawa,720
+Niter,Massawa,1080
+Potassium Alum,Massawa,1350
+Cedar Wood,Massawa,900
+Rice,Diu,495
+Natural Silk,Diu,1260
+Indian Calico,Diu,1665
+White Sandalwood,Goa,1238
+Cinnamon,Goa,882
+Iron Ore,Goa,1080
+Red Sandalwood,Goa,1350
+White Sandalwood,Calicut,1238
+Black Pepper,Calicut,540
+Indian Calico,Calicut,1665
+Ruby,Calicut,3915
+Cinnamon,Kochi,882
+Black Pepper,Kochi,540
+Cotton,Kochi,720
+White Sandalwood,Kochi,1238
+Black Pepper,Ceylon,540
+Ebony Wood,Ceylon,2115
+Red Sandalwood,Ceylon,1350
+Sapphire,Ceylon,3780
+Ruby,Ceylon,3915
+Turmeric,Puducherry,1134
+Copper Ore,Puducherry,1350
+Charcoal,Puducherry,765
+Wootz Steel,Puducherry,1800
+Salt,Madras,630
+Turmeric,Madras,1134
+Wootz Steel,Madras,1800
+Red Sandalwood,Madras,1350
+Cotton,Machilipatnam,720
+Cotton Fabric,Machilipatnam,1080
+Indian Calico,Machilipatnam,1665
+Natural Silk,Machilipatnam,1260
+Sisal,Machilipatnam,1512
+Indian Calico,Kolkata,1665
+Ship Spike,Kolkata,1620
+Red Sandalwood,Kolkata,1350
+Teak,Kolkata,2430
+Natural Silk,Kolkata,1260
+Rice,Bago,495
+Cinnamon,Bago,1323
+Jadeite,Bago,3150
+Sapphire,Bago,4536
+Ruby,Lopburi,3915
+Lead,Lopburi,945
+Sisal,Lopburi,1404
+Rice,Gia Dinh,495
+Copper Ore,Gia Dinh,1350
+Turmeric,Gia Dinh,1040
+Sapphire,Gia Dinh,4536
+Teak,Gia Dinh,2430
+White Sugar,Aceh,900
+Coconut,Aceh,504
+Turmeric,Aceh,1040
+Rice,Jambi,495
+White Sugar,Jambi,900
+Salt,Jambi,630
+Coral,Jambi,1620
+Agate,Palembang,1485
+Rice,Palembang,495
+Beeswax,Palembang,765
+Jadeite,Palembang,3780
+Weapon,Malacca,1620
+Ship Spike,Malacca,1620
+Pearl,Malacca,2385
+Golden Artware,Malacca,2700
+Rice,Pattani,495
+Tin Ore,Pattani,900
+Salt,Pattani,630
+Sisal,Pattani,1404
+Gunpowder,Kuching,1125
+Zinc Ore,Kuching,990
+Brass,Kuching,1620
+Wood,Brunei,630
+Agarwood,Brunei,3465
+Clove,Brunei,900
+Coconut,Banjarmasin,504
+Rice,Banjarmasin,495
+Mace,Banjarmasin,653
+Nutmeg,Banjarmasin,761
+Coconut,Makassar,504
+White Sugar,Makassar,900
+Pearl,Makassar,2385
+Nutmeg,Ambon,761
+Mace,Ambon,653
+Clove,Ambon,900
+Mace,Dili,653
+Coconut,Dili,504
+Fish Meat,Dili,540
+Nutmeg,Dili,761
+Clove,Ternate,900
+Charcoal,Ternate,765
+Gunpowder,Ternate,1125
+Wood,Davao,630
+Agarwood,Davao,3465
+Ebony Wood,Davao,2538
+Fish Meat,Samarai,540
+Coconut,Samarai,504
+Pearl,Samarai,2385
+Banana,Manila,558
+Gunpowder,Manila,1125
+Fur,Manila,1350
+Silver,Manila,1800
+Fur,Surabaya,1350
+Rice,Surabaya,495
+Clove,Surabaya,900
+Salt,Jakarta,630
+Copper Ore,Jakarta,1350
+Agarwood,Jakarta,3465
+Gold,Jakarta,6075
+Ebony Wood,Jakarta,2538
+Brass,Haizhou,1620
+Yellow Rice Wine,Haizhou,783
+Ship Spike,Haizhou,1620
+Peach Wood,Haizhou,1080
+Tea Leaf,Haizhou,1350
+Yellow Rice Wine,Hangzhou,783
+Silk,Hangzhou,3105
+Celadon,Hangzhou,3060
+Blue and White Porcelain,Hangzhou,3150
+Korean Pine Wood,Hangzhou,990
+Tea Leaf,Macao,1350
+Folding Fan,Macao,1080
+Sisal,Macao,1620
+Peach Wood,Macao,1080
+Musk,Macao,2385
+Fish Meat,Tamsui,540
+Beeswax,Tamsui,765
+Charcoal,Tamsui,765
+Agate,Tamsui,1485
+Fish Meat,Anping,540
+Zinc Ore,Anping,990
+Korean Pine Wood,Anping,990
+Ambergris,Anping,3150
+Celadon,Zhangzhou,3060
+Silk,Zhangzhou,3105
+Tea Leaf,Zhangzhou,1350
+Iron Ore,Zhangzhou,1080
+Musk,Zhangzhou,2385
+Fish Meat,Naha,540
+Honey,Naha,720
+Coral,Naha,1620
+Lead,Naha,945
+Lacquerware,Sakai,2205
+Katana,Sakai,2385
+Pearl,Sakai,2385
+Silver,Sakai,1800
+Niter,Sakai,1080
+Sake,Nagasaki,810
+Lacquerware,Nagasaki,2205
+Charcoal,Nagasaki,765
+Katana,Nagasaki,2385
+Wheat,Edo,378
+Sake,Edo,810
+Tortoise Shell,Edo,2250
+Katana,Edo,2385
+Tin Ore,Busan,900
+Silver,Busan,1800
+Niter,Busan,1080
+White Porcelain,Busan,3686
+Copper Ore,Hanyang,1350
+Beeswax,Hanyang,765
+Ginseng,Hanyang,1620
+White Porcelain,Hanyang,3686
+Charcoal,Pohang,765
+Potassium Alum,Pohang,1350
+Korean Pine Wood,Pohang,990
+Ginseng,Pohang,1620
+Banana,San Juan,558
+White Sugar,San Juan,900
+Rum,San Juan,720
+Pearl,San Juan,2385
+Cocoa,Santo Domingo,1080
+Agate,Santo Domingo,1485
+Tobacco,Santo Domingo,1260
+Tobacco,San Diego,1260
+Cocoa,San Diego,1080
+Coral,San Diego,1620
+Rum,Nassau,720
+Weapon,Nassau,1620
+Ship Spike,Nassau,1620
+Tortoise Shell,Nassau,2250
+Potato,Veracruz,405
+White Sugar,Veracruz,900
+Carmine,Veracruz,2340
+Gold,Veracruz,6075
+Agate,Veracruz,1485
+Vanilla,Mérida,693
+Cocoa,Mérida,1080
+Potato,Mérida,405
+Carmine,Mérida,2340
+Jadeite,Mérida,6300
+Vanilla,Trujillo,693
+Wood,Trujillo,630
+Brass,Trujillo,1620
+Oak,Trujillo,1800
+Banana,Portobello,558
+Cocoa,Portobello,1080
+Copper Ore,Portobello,1350
+Silver,Portobello,1800
+Banana,Grand Cayman,558
+Rum,Grand Cayman,720
+Sisal,Grand Cayman,1080
+Tortoise Shell,Grand Cayman,2250
+Banana,Willemstad,558
+Honey,Willemstad,720
+Beeswax,Willemstad,765
+Sisal,Willemstad,1080
+Banana,Caracas,558
+Cocoa,Caracas,1080
+Niter,Caracas,1080
+Sisal,Caracas,1080
+Cocoa,Cayenne,1080
+Tin Ore,Cayenne,900
+Silver,Cayenne,1800
+Vanilla,Maracaibo,693
+Charcoal,Maracaibo,765
+Potassium Alum,Maracaibo,1350
+Silver Artware,Maracaibo,2025
+Gold,Maracaibo,6075
+Rum,Jamaica,720
+Coral,Jamaica,1620
+White Sugar,Jamaica,900
+Gold,Jamaica,6075
+Tobacco,Havana,1260
+Rum,Havana,720
+Weapon,Havana,1620
+Pearl,Havana,2385
+Corn,Lima,504
+Quinine,Lima,1215
+Niter,Lima,1080
+Gold,Lima,6075
+Rhodochrosite,Lima,3375
+Quinine,Lambayeque,1215
+Corn,Lambayeque,504
+Rhodochrosite,Lambayeque,3375
+Corn,Tumbes,504
+Iron Ore,Tumbes,1080
+Zinc Ore,Tumbes,990
+Rhodochrosite,Tumbes,3375
+Tequila,Panama,1296
+Coral,Panama,1620
+Sweet Potato,Panama,432
+Silver,Panama,1800
+Tequila,Guatemala,1296
+Cotton,Guatemala,720
+Sweet Potato,Guatemala,432
+Silver,Guatemala,1800
+Wood,Acapulco,630
+Sweet Potato,Acapulco,432
+Silver,Acapulco,1800
+Cocoa,Pernambuco,720
+Corn,Pernambuco,504
+Oak,Pernambuco,1800
+Mate,Bahia,720
+Corn,Bahia,504
+Maca,Bahia,1188
+Mate,Buenos Aires,720
+Sausage,Buenos Aires,720
+Tortoise Shell,Buenos Aires,2250
+Maca,San Antonio,1188
+Mate,San Antonio,720
+Tin Ore,San Antonio,900
+Oak,San Antonio,1800
+Maca,Valparaiso,1188
+Wood Carving,Valparaiso,810
+Silver,Valparaiso,1800
+Fish Meat,Copiapó,540
+Quinine,Copiapó,1458
+Tobacco,Copiapó,1890
