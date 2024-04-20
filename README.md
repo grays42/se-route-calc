@@ -2,6 +2,8 @@
 
 This Python script implements the methodology described by [Jathby Dredas's guide on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2983784638).
 
+![Sample Output](https://i.imgur.com/RQJsnei.png "Sailing Era Trade Routes calculator sample output")
+
 Using the same data sets, the script generates and evaluates all possible trade routes in the game Sailing Era. The script can output the top trade routes globally, or the best trade routes for any specific port for cities you've already established guilds in, and can either run local trades (only 1 month away) or long range trades if you have a Charting Office.
 
 (Also, you don't have to worry about "depleting the supply", even unguilded ports have unlimited quantities of trade goods available to trade fleets, I've tested this hypothesis rigorously.)
